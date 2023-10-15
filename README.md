@@ -6,6 +6,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anisur Rahman</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
+<br>
+
+<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy281810&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy281810" /> </p>
 
 - 🔭 I’m currently working on **Aftab Group**
