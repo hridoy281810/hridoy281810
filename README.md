@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **Frontend Web Developer**
+- 👯 I’m looking to collaborate on **software company**
 
 - 👨‍💻 All of my projects are available at [https://electra-poll.web.app/](https://electra-poll.web.app/)
 
