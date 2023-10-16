@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
  
 <img width="100%" height="100%" src="https://i.ibb.co/fvmjG8f/Kamrul-Islam.jpg" alt="cover" />
