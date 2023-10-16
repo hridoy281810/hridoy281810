@@ -1,7 +1,7 @@
 <div >
 
  
-<img width="100%" height="100%" src="https://i.ibb.co/fvmjG8f/Kamrul-Islam.jpg" alt="cover" />
+<img width="100%" height="700px" src="https://i.ibb.co/fvmjG8f/Kamrul-Islam.jpg" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Mohammad Anisur Rahman</h1>
 <h3 align="center">Frontend Web Developer</h3>
