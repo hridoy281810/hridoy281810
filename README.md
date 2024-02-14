@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anisur Rahman</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-- 🔭 I’m currently working on **Aftab Group**
+- 🔭 I’m currently working on **Brain Station 23 PLC**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
